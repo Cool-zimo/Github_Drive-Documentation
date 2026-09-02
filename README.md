@@ -97,3 +97,9 @@ A: GitHub Pages 部署需要 1-5 分钟，分享后请稍等片刻再访问。
 ## 📝 许可证
 
 MIT License
+
+
+## 文档
+
+- [贡献指南](./CONTRIBUTING.md) - 如何提交改进和 CI/CD 流程
+- [版本切换](./VERSION-SWITCH.md) - 如何体验他人改进的版本
