@@ -1,3 +1,4 @@
+<!-- MIGRATION-BANNER-START -->
 <br>
 
 > # ⚠️ 本文档已迁移
@@ -12,6 +13,8 @@
 <br>
 
 ---
+
+<!-- MIGRATION-BANNER-END -->
 
 <div align="center">
 
