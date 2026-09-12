@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="assets/icon-drive-192.png" width="96" alt="GitHub Drive">
+
 # GitHub Drive 文档
 
 基于 GitHub API 的虚拟文件系统 - 把多个 GitHub 仓库变成一个统一的云端硬盘。
