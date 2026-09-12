@@ -1,26 +1,69 @@
-# 📦 本仓库已归档
+<br>
 
-文档已迁移到 **github_drive_documentation**，本仓库不再维护。
+> # ⚠️ 本文档已迁移
+>
+> **新地址：https://cool-zimo.github.io/github_drive_documentation/**
+>
+> 本仓库仅作镜像保留，**不再单独更新**。所有新内容都在上面这个地址。
+> 请更新你的收藏夹 👆
+>
+> [👉 前往新文档](https://cool-zimo.github.io/github_drive_documentation/) · [📦 新仓库](https://github.com/Cool-zimo/github_drive_documentation)
 
-## 👉 请访问新文档
+<br>
 
-**https://cool-zimo.github.io/github_drive_documentation/**
+---
 
-所有内容（含本仓库原有的贡献指南、版本切换说明）都已合并过去，
-并补充了插件 API 参考、仓鼠联动、后端服务、常见问题等新章节。
+<div align="center">
 
-## 页面对应关系
+<img src="assets/icon-drive-192.png" width="96" alt="GitHub Drive">
 
-| 本仓库 | 新地址 |
-|---|---|
-| `README.md` | https://cool-zimo.github.io/github_drive_documentation/ |
-| `CONTRIBUTING.md` | https://cool-zimo.github.io/github_drive_documentation/contributing/ |
-| `VERSION-SWITCH.md` | https://cool-zimo.github.io/github_drive_documentation/version-switch/ |
+# GitHub Drive 文档
 
-## 为什么要迁移
+基于 GitHub 的虚拟文件系统，用 GitHub 仓库存储文件，支持分片上传、分享、插件扩展。
 
-两个文档仓库并存容易混淆 —— 应用内「使用文档」一直指向这里，
-而实际持续更新的内容都在新仓库，导致近期改动（v0.0.32 ~ v0.0.38）
-的文档更新用户看不到。现已统一。
+## 📚 文档导航
 
-> 本仓库保留作为历史记录，只读。
+### 用户指南
+- [快速开始](docs/getting-started.md) - 登录、上传、下载基础操作
+- [完整用户指南](docs/user-guide.md) - 所有功能详解
+- [后端服务](docs/backend.md) - 可选的本地后端，突破跨域限制
+- [版本切换](docs/version-switch.md) - 体验他人改进的预览分支
+- [常见问题](docs/faq.md) - FAQ
+
+### 开发者
+- [插件开发指南](docs/plugin-development.md) - 如何开发插件
+- [插件 API 参考](docs/plugin-api.md) - 插件可调用的 API 列表
+- [贡献指南](docs/contributing.md) - 提交改进与 CI/CD 流程
+- [分享格式规范](docs/share-format.md) - 分享仓库的标准格式
+
+### 生态
+- [仓鼠联动](docs/cangshu-integration.md) - 与配套应用的互通
+
+### 其他
+- [更新日志](CHANGELOG.md) - 版本更新记录
+
+## 🔗 相关仓库
+- [github_drive](https://github.com/Cool-zimo/github_drive) - 主应用
+- [cangshu](https://github.com/Cool-zimo/cangshu) - 仓鼠（仓库管理面板）
+- [github_drive_plugins](https://github.com/Cool-zimo/github_drive_plugins) - 插件市场
+- [github-drive-server](https://github.com/Cool-zimo/github-drive-server) - 可选后端
+- [github_drive_documentation](https://github.com/Cool-zimo/github_drive_documentation) - 本文档仓库
+
+## 🚀 快速访问
+- [GitHub Drive](https://cool-zimo.github.io/github_drive/) - 在线应用
+- [仓鼠](https://cool-zimo.github.io/cangshu/) - 仓库管理面板
+- 插件市场：应用侧边栏「插件广场」
+
+## ✨ 主要特性
+
+- **文件管理**：上传、下载、删除、移动、重命名文件和文件夹
+- **大文件支持**：自动分片，突破单仓库容量限制
+- **多仓库存储**：自动创建并管理多个存储仓库
+- **文件分享**：一键生成分享链接，自动启用 Pages
+- **插件系统**：全屏运行的插件生态，支持游戏与工具
+- **多账号管理**：支持多个 GitHub 账号切换
+- **仓鼠联动**：与仓库管理面板共享登录状态
+
+## 📝 许可证
+
+MIT License
