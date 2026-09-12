@@ -1,6 +1,9 @@
 # 仓鼠联动
 
+<!-- MIGRATION-BANNER-START -->
 > ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
+
+<!-- MIGRATION-BANNER-END -->
 
 「仓鼠」是配套的 GitHub 仓库管理面板，与 GitHub Drive 深度互通。
 
