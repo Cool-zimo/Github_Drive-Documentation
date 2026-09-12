@@ -1,6 +1,9 @@
 # 快速开始
 
+<!-- MIGRATION-BANNER-START -->
 > ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
+
+<!-- MIGRATION-BANNER-END -->
 
 ## 1. 登录
 1. 打开 [GitHub Drive](https://cool-zimo.github.io/github_drive/)
