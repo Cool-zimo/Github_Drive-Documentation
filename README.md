@@ -1,7 +1,3 @@
----
-layout: default
-title: GitHub Drive 文档
----
 <!-- MIGRATION-BANNER-START -->
 <br>
 
@@ -19,6 +15,11 @@ title: GitHub Drive 文档
 ---
 
 <!-- MIGRATION-BANNER-END -->
+
+---
+layout: default
+title: GitHub Drive 文档
+---
 
 <div align="center">
 
