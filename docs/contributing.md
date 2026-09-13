@@ -1,14 +1,14 @@
-<!-- MIGRATION-BANNER-START -->
-> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
-
-<!-- MIGRATION-BANNER-END -->
-
 ---
 layout: default
 title: 贡献指南
 ---
 
 # 贡献指南
+
+<!-- MIGRATION-BANNER-START -->
+> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
+
+<!-- MIGRATION-BANNER-END -->
 
 感谢你对 GitHub Drive 的贡献！本文档说明如何提交改进，以及 CI/CD 的自动审批流程。
 
