@@ -1,14 +1,14 @@
+<!-- MIGRATION-BANNER-START -->
+> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
+
+<!-- MIGRATION-BANNER-END -->
+
 ---
 layout: default
 title: 插件开发指南
 ---
 
 # 插件开发指南
-
-<!-- MIGRATION-BANNER-START -->
-> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
-
-<!-- MIGRATION-BANNER-END -->
 
 ## 插件是什么
 
