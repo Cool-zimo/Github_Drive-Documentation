@@ -1,9 +1,14 @@
-# 版本切换
-
 <!-- MIGRATION-BANNER-START -->
 > ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
 
 <!-- MIGRATION-BANNER-END -->
+
+---
+layout: default
+title: 版本切换
+---
+
+# 版本切换
 
 GitHub Drive 支持加载他人改进的版本，通过**预览分支**机制实现。
 
@@ -75,4 +80,4 @@ A: 预览版本是第三方提交的未验证代码，请谨慎使用。官方�
 **Q: 怎么知道有哪些预览分支可用？**
 A: 版本切换页面会自动列出，也可访问仓库 Branches 页面查看。
 
-想提交自己的改进？见 [贡献指南](contributing.md)。
+想提交自己的改进？见 [贡献指南](contributing.html)。
