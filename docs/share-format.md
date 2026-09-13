@@ -1,14 +1,14 @@
-<!-- MIGRATION-BANNER-START -->
-> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
-
-<!-- MIGRATION-BANNER-END -->
-
 ---
 layout: default
 title: 分享格式规范
 ---
 
 # 分享格式规范
+
+<!-- MIGRATION-BANNER-START -->
+> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
+
+<!-- MIGRATION-BANNER-END -->
 
 GitHub Drive 的分享使用标准格式，方便搜索和发现。
 
