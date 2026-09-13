@@ -1,14 +1,14 @@
+<!-- MIGRATION-BANNER-START -->
+> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
+
+<!-- MIGRATION-BANNER-END -->
+
 ---
 layout: default
 title: 后端服务
 ---
 
 # 后端服务
-
-<!-- MIGRATION-BANNER-START -->
-> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
-
-<!-- MIGRATION-BANNER-END -->
 
 后端是**可选**的本地服务，用来突破浏览器限制（CORS、跨域请求等）。
 不使用后端也能正常用 Drive 的全部核心功能；部分插件（如 B 站视频下载器）需要它才能运行。
