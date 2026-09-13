@@ -1,14 +1,14 @@
+<!-- MIGRATION-BANNER-START -->
+> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
+
+<!-- MIGRATION-BANNER-END -->
+
 ---
 layout: default
 title: 版本切换
 ---
 
 # 版本切换
-
-<!-- MIGRATION-BANNER-START -->
-> ⚠️ **本文档已迁移到 [https://cool-zimo.github.io/github_drive_documentation/](https://cool-zimo.github.io/github_drive_documentation/)** —— 本页为旧镜像，不再单独更新。
-
-<!-- MIGRATION-BANNER-END -->
 
 GitHub Drive 支持加载他人改进的版本，通过**预览分支**机制实现。
 
